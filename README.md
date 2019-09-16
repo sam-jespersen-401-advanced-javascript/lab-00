@@ -2,7 +2,7 @@
 
 ## Proof of life server
 
-### Author: Student/Group Name
+### Author: Sam Jespersen
 
 ### Links and Resources
 * [submission PR](https://github.com/sam-jespersen-401-advanced-javascript/lab-00/pull/1)
